@@ -15,3 +15,14 @@ As a new web developer there were couple of challanges that I faced while making
 
 I think the color co-ordination of the website and the more organised code make my website different than others.
 
+## Deployed link
+ 
+[find the deployed link to the website here](https://oindrila11.github.io/u-of-t-refactor-horiseon-easy-read-cool-project/)
+
+## License & Copyright
+
+© Oindrila Talukder, University of Toronto Web Developer
+
+Licensed under the [MIT License](LICENSE)
+
+
