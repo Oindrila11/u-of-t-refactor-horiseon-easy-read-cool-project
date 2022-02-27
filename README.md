@@ -9,9 +9,9 @@ Added alt attribute to the icons on the left inside the benefit section for acce
 
 Used semantic html tags to make the both html and css file look more organised. 
 
-The pourpose of this project was to make the website accessible and improve seo. The newer version of the website does satisfy the purpose. However I wanted to add a section where the customers can interact through the website by providing their information which I plan to add in future.
+The pourpose of this project was to make the website accessible and improve seo. The newer version of the website does satisfy the purpose. However I wanted to add a section where the customers can interact through the website by providing their informations; which I plan to add in future.
 
-As a new web developer there were couple of challanges that I faced while making the changes ; picking the appropriate image to add the alt atrribute was one of them. 
+As a new web developer there were couple of challanges that I faced while making the changes ; picking the appropriate image to add the alt atrribute was one of them. However my takeaway from this project was to know how to organize css and implement different styles to the webpage. 
 
 I think the color co-ordination of the website and the more organised code make my website different than others.
 
