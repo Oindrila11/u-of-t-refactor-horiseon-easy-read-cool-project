@@ -23,6 +23,6 @@ I think the color co-ordination of the website and the more organised code make 
 
 © Oindrila Talukder, University of Toronto Web Developer
 
-Licensed under the [MIT License](LICENSE)
+Licensed under the [MIT License](LICENSE.txt)
 
 
